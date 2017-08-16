@@ -11,7 +11,7 @@ Change the .stl file to any .stl file to visualize in VTK.
 
 **Output:**
 
-![alt text]()
+![alt text](https://github.com/jeev20/STL-embedding-in-VTK-using-PyQT/blob/master/VTKembedd.gif)
 
 **References:** 
 [VTK examples](http://www.vtk.org/Wiki/VTK/Examples/Python) 
