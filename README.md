@@ -6,7 +6,7 @@ PyQt4 is used to embedd the [VTK](http://www.vtk.org/) visualization into the us
 - [VTK](http://www.vtk.org/)
 
 **Usage:**
-Change the .stl file to any .stl file to visualize in VTK. 
+Change the Model.stl file to any .stl file to visualize in VTK. 
 
 
 **Output:**
